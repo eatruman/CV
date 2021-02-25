@@ -25,6 +25,8 @@ _Class teacher, Key-stage leader_
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
+### Iniative 
+
 #### Communication
 
 As a teacher I demonstrated strong communication skills daily. I could cofidently present student data and predictions in progress meetings with head teachers and executive leadership teams and then swap to teaching my class a song about the six wives of Henry the 8th with less than two minutes turnaround time ( divorced, beheaded, and died, divorced. beheaded, survived! in case you're wondering.) I am excellent at using my interpersonal skills to develop relationships with others which leads to efficient teamwork and an enjoyable working environment. 
@@ -67,4 +69,4 @@ My superpower is my ability to ask questions. I love learning. I use my superpow
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-Trekking, Canoeing, Reading, Travelling, Painting (mostly by numbers-it's incredibly calming)  
+Trekking, Canoeing, Reading, Travelling, Yoga, Painting (mostly by numbers-it's incredibly calming)  
