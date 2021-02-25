@@ -1,7 +1,7 @@
-## Your Name
+## Liz Truman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+I am an ambitious and enthusiastic **Full Stack Junior Developer**, looking for an interesting role where I can consolidate and extend my programming knowledge and gain exposure to project management and buisness strategy. After graduating from university in Canada, I packed my entire life into two suitcases and moved to the UK to begin my career. After seven years working in education I realized I had hit a plateau, I wasn't learning anything new or finding myself challenged anymore so decided to try my hand at a new skill - coding! Having recently completed the intensive 12 week programme of Makers Academy, I have grown from an interested amateur coder into a competent and confident junior developer. Learning to code has enabeled me to flex my determination and perseverance muscles whilst spending my days doing my favourite thing - problem solving! 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -11,13 +11,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Valley Invicta Primary School at East Borough** (start-date to end-date)  
+_Year 5 teacher, Leader of Modern Foreign Languages(French)_
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Westcourt Primary School** (start-date to end-date)  
+_Class teacher, Key-stage leader_
 
 - Any experience relevent to software development
 
@@ -25,40 +25,46 @@ _Your job title_
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Communication
 
-- Experience
-- Achievements
+As a teacher I demonstrated strong communication skills daily. I could cofidently present student data and predictions in progress meetings with head teachers and executive leadership teams and then swap to teaching my class a song about the six wives of Henry the 8th with less than two minutes turnaround time ( divorced, beheaded, and died, divorced. beheaded, survived! in case you're wondering.) I am excellent at using my interpersonal skills to develop relationships with others which leads to efficient teamwork and an enjoyable working environment. 
+
 - Evidence
 
-#### Another Skill
+#### Fast Learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My superpower is my ability to ask questions. I love learning. I use my superpower to improve my understanding of new concepts and to develop new skills. 
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+### Time Management 
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2021 to May 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+### Lakehead University (2013-2014
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+ - Bachelor of Education 
+ - Hons
+ - 
+#### Nipissing University (2019 to 2013)
+
+- Geography 
+- Hons
+- Minored in French 
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+Trekking, Canoeing, Reading, Travelling, Painting (mostly by numbers-it's incredibly calming)  
